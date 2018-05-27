@@ -1,0 +1,1 @@
+Hemos realizado el programa en la DEV C++ todas juntas ya que hemos quedado para hacerlo varios días, cuando acabamos el trabajo lo hemos subido directamente hecho a Git Hub.
